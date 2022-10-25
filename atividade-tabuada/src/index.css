@@ -1,0 +1,24 @@
+
+@import url('http://fonts.cdnfonts.com/css/sf-ui-display');
+body {
+    background-image: url("teste.jpg");
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: large;
+    font-family: 'SF UI Display';
+    color: aliceblue;
+}
+button {
+    font-family: 'SF UI Display';
+    background: rgb(91, 23, 146);
+    color: aliceblue;
+    font-size: medium;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

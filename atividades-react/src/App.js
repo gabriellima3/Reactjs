@@ -7,6 +7,9 @@ import Mensagem from './Mensagem';
 import Header from './Header';
 import Container from './Container';
 import Metodo1 from './Metodo1';
+import Metodo2 from './Metodo2';
+import Metodo3 from './Metodo3';
+import Metodo4 from './Metodo4';
 //import './App.css';
 
 //let n = parseInt(prompt("Informe um número", "5"));
@@ -79,6 +82,10 @@ function App() {
       <Header /*favcol="Amarelo"*//>
       <Container/>
       <Metodo1/>
+      <Metodo2/>
+      <Metodo3/>
+      <Metodo4/>
+
   
 
     </div>
